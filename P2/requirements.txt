@@ -1,0 +1,12 @@
+# Tic-Tac-Toe AI Requirements
+# Python 3.7 or higher required
+
+# All dependencies are part of Python's standard library:
+# - tkinter (for GUI - usually pre-installed)
+# - math (standard library)
+# - random (standard library)
+# - typing (standard library)
+
+# No external packages required!
+# This makes the project easy to run without any pip installations.
+
